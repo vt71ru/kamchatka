@@ -46,4 +46,12 @@ body {
 
 .container {
     background-color: yellowgreen;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content_area{
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
